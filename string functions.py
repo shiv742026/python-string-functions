@@ -65,5 +65,5 @@
 #print(x.isalpha())       #to check alphabet or not
 
 
-x="python123"
-print(x.isalnum())      
+#x="python123"
+#print(x.isalnum())    #checks both alphabet and number
